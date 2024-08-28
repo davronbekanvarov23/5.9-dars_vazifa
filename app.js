@@ -2,7 +2,7 @@
 const btnRoll = document.querySelector(".btn--roll");
 const btnNew = document.querySelector(".btn--new");
 const btnHold = document.querySelector(".btn--hold");
-
+// s
 //dice image
 const diceImg = document.querySelector(".dice");
 diceImg.style.display = "none";
